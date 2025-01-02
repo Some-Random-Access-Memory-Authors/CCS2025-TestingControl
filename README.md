@@ -1,6 +1,6 @@
-# Artifact of FSE 2025 Submission
+# Artifact of CCS 2025 Submission
 
-Artifact of FSE 2025 Submission: Expectations aren't Guarantees: Identifying the Inconsistency Between Planning and Control in Autonomous Driving
+Artifact of CCS 2025 Submission: Expectations aren't Guarantees: Identifying the Inconsistency Between Planning and Control in Autonomous Driving
 
 This artifact repo consists of the following three parts. For each part, please refer to the detailed README file under each folder:
 
