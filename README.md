@@ -8,6 +8,6 @@ This artifact repo consists of the following three parts. For each part, please 
 
  - **refined_mpc_controller** : The refined controller code, which outperforms the original controller after we fixed identified bugs.
 
- - **oracle_assessment** : How to assess the controller performance based on the novel oracles.
+ - **oracle_assessment** : How to assess the controller performance based on the proposed four metrics.
 
- - **LLM_Results** : The results produced by GPT-4o in our CoT based bug analysis (arranged into Markdown files for readability).
+ - **VLM_Results** : The results produced by GPT-4o in our CoT based bug analysis (arranged into Markdown files for readability).
