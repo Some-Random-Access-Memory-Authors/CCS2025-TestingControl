@@ -6,7 +6,7 @@
 
  - **B2_03_Town01_SharpLeft_Failed.txt** : One sample data from the above zip file.
 
- - **O1_\*.py**  to **O4_\*.py** : Python script to evaluate the control performance of 4 oracles.
+ - **m1_\*.py**  to **m4_\*.py** : Python script to evaluate the control performance of 4 metrics.
 
  - **plot_diff.py** : Plot the diff between planned and actual trajectory.
 
@@ -25,7 +25,7 @@ To evaluate the Tracking Error, Responsiveness, Stability or Smoothness of the c
 
 
 ```shell
-python3 ./O1_TE.py ./assessed_scenarios/
+python3 ./m1_TE.py ./assessed_scenarios/
 ```
 
 Then the analysis result for each file will be shown:
